@@ -1,5 +1,5 @@
 {
-  "name": "Release Tasmota PT",
+  "name": "Release Raceland PT",
   "builds": [
     {
       "chipFamily": "ESP32",
@@ -13,7 +13,7 @@
     },
     {
       "chipFamily": "ESP8266",
-      "parts": [{ "path": "../release-firmware/tasmota/languages/tasmota-PT.bin", "offset": 0 }]
+      "parts": [{ "path": "../release-firmware/tasmota/languages/raceland-PT.bin", "offset": 0 }]
     }
   ]
 }
