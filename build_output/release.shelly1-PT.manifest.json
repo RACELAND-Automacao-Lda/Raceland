@@ -13,7 +13,7 @@
     },
     {
       "chipFamily": "ESP8266",
-      "parts": [{ "path": "firmware/raceland/shelly1-PT.bin", "offset": 0 }]
+      "parts": [{ "path": "./firmware/raceland/shelly1-PT.bin", "offset": 0 }]
     }
   ]
 }
