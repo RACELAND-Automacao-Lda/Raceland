@@ -13,7 +13,7 @@
     },
     {
       "chipFamily": "ESP8266",
-      "parts": [{ "path": "/build_output/firmware/raceland/raceland-PT.bin", "offset": 0 }]
+      "parts": [{ "path": "/build_output/firmware/raceland/lanbon_l8_full_8MB_v0.6.2.bin", "offset": 0 }]
     }
   ]
 }
