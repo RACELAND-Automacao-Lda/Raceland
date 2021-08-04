@@ -1,5 +1,5 @@
 {
-  "name": "Release Raceland PT",
+  "name": "Release Lanbon PT",
   "builds": [
     {
       "chipFamily": "ESP32",
@@ -8,7 +8,7 @@
         { "path": "../static/esp32/bootloader_dout_40m.bin", "offset": 4096 },
         { "path": "../static/esp32/partitions.bin", "offset": 32768 },
         { "path": "../static/esp32/boot_app0.bin", "offset": 57344 },
-        { "path": "../release-firmware/tasmota32/languages/tasmota32-PT.bin", "offset": 65536 }
+        { "path": "/build_output/firmware/raceland/lanbon_l8_full_8MB_v0.6.2.bin", "offset": 65536 }
       ]
     },
     {
